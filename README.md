@@ -6,7 +6,7 @@ The small amount of people and groups allow to simplify heavily the metadata sec
 
 ### Download
 
-<a href="https://stronggale.github.io/SAS-Security-Whitepaper/METADATA SECURITY IN SAS 9.4 - BEST PRACTICE AN EASY START.docx" >SAS Security Whitepaper Download</a>
+The file can be downloaded here: <a href="https://stronggale.github.io/SAS-Security-Whitepaper/METADATA SECURITY IN SAS 9.4 - BEST PRACTICE AN EASY START.docx" >SAS Security Whitepaper Download</a>
 
 ### Support and contact
 
