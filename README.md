@@ -4,6 +4,10 @@ This document contains a best practice method describing how to implement metada
 
 The small amount of people and groups allow to simplify heavily the metadata security structure that we should implement.  I will not describe how to do specific operations in SAS (like creating a user or a group) since tools change and new versions come often and assume that the reader has some knowledge on the working of the tool (in particular of the Management Console as I write). Our aim is to describe a methodology that will get you started regardless of what version of SAS you are using, and that will avoid problems along the road in the future. Additionally note that the aim of this paper is not to give a complete overview on how security in SAS® works. I will describe only a few features, the one we need to implement our best practice methods and nothing more. I will use a "lazy approach" and describe only what I need. The best practices have been reviewed by J. Fritzenwallner from SAS®.
 
+### Download
+
+<a href="https://stronggale.github.io/SAS-Security-Whitepaper/METADATA SECURITY IN SAS 9.4 - BEST PRACTICE AN EASY START.docx" >SAS Security Whitepaper Download</a>
+
 ### Support and contact
 
 Umberto Michelucci [mail](mailto:umberto.michelucci@gmail.com).
