@@ -1,4 +1,4 @@
-## SAS Security Whitepaper
+## SAS Security Whitepaper 
 
 This document contains a best practice method describing how to implement metadata security in [SAS®](https://www.sas.com/de_ch/home.html). The document "Metadata Security in SAS® – Step-by-Step" (_Jørgensen & Hoffritz_, 2013) has been used as basis for this one. The goal of this paper is to outline a simpler and more streamlined version of metadata security when the number of people working with SAS is small (of the order of 20-30) and are divided in less than 10 groups. 
 
