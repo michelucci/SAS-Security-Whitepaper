@@ -10,5 +10,5 @@ The file can be downloaded here: <a href="https://stronggale.github.io/SAS-Secur
 
 ### Support and contact
 
-In case you need any additional information or have questions don't hesitate to contact me at
+In case you need any additional information or have questions don't hesitate to contact me at my 
 [mail](mailto:umberto.michelucci@gmail.com).
