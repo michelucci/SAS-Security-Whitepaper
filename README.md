@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## SAS Security Whitepaper
 
-You can use the [editor on GitHub](https://github.com/stronggale/SAS-Security-Whitepaper/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This document contains a best practice method describing how to implement metadata security in [SAS®](https://www.sas.com/de_ch/home.html). The document "Metadata Security in SAS® – Step-by-Step" (_Jørgensen & Hoffritz_, 2013) has been used as basis for this one. The goal of this paper is to outline a simpler and more streamlined version of metadata security when the number of people working with SAS is small (of the order of 20-30) and are divided in less than 10 groups. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The small amount of people and groups allow to simplify heavily the metadata security structure that we should implement.  I will not describe how to do specific operations in SAS (like creating a user or a group) since tools change and new versions come often and assume that the reader has some knowledge on the working of the tool (in particular of the Management Console as I write). Our aim is to describe a methodology that will get you started regardless of what version of SAS you are using, and that will avoid problems along the road in the future. Additionally note that the aim of this paper is not to give a complete overview on how security in SAS® works. I will describe only a few features, the one we need to implement our best practice methods and nothing more. I will use a "lazy approach" and describe only what I need. The best practices have been reviewed by J. Fritzenwallner from SAS®.
 
-### Markdown
+###Support and contact### 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stronggale/SAS-Security-Whitepaper/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Umberto Michelucci [mail](mailto:umberto.michelucci@gmail.com).
