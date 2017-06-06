@@ -12,3 +12,9 @@ The file can be downloaded here: <a href="https://github.com/michelucci/SAS-Secu
 
 In case you need any additional information or have questions don't hesitate to contact me at my 
 [mail](mailto:umberto.michelucci@gmail.com).
+
+### References
+
+Jørgensen, J. & Hoffritz, C., 2013. http://support.sas.com. [Online]
+Available at: http://support.sas.com/resources/papers/proceedings11/376-2011.pdf
+[Accessed 22nd August 2016].
